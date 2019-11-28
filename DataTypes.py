@@ -1,0 +1,7 @@
+print("welcome venkat ....")
+print(type(20))
+print(type(20121324323232323))
+print(type(20.111))
+print(type(True))
+print(type("Raju"))
+print(type('str'))
